@@ -1,0 +1,22 @@
+# Build output
+target/
+.tmp/
+
+# Local secrets: never commit. Copy credentials.template.json to credentials.json instead.
+credentials.json
+**/credentials.json
+.env
+
+# Local app binaries for emulator runs
+apps/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Reports
+allure-results/
+allure-report/
+.allure/
