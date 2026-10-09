@@ -1,0 +1,14 @@
+{
+  "browserUrl": "https://ecommerce-playground.lambdatest.io/",
+  "browserUrlHost": "ecommerce-playground.lambdatest.io",
+  "gpsLocation": "41.7151,44.8271",
+  "wdio": {
+    "validEmail": "qa.portfolio@example.com",
+    "validPassword": "Portfolio123",
+    "formText": "Hello from the framework",
+    "invalidLogins": [
+      { "name": "invalid email", "email": "not-an-email", "password": "Portfolio123", "expectedError": "Please enter a valid email address" },
+      { "name": "short password", "email": "qa.portfolio@example.com", "password": "short", "expectedError": "Please enter at least 8 characters" }
+    ]
+  }
+}
