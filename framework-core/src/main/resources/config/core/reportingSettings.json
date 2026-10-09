@@ -1,0 +1,8 @@
+{
+  "reporting": {
+    "failureDumpDir": "target/failures",
+    "screenshotOnFailure": true,
+    "pageSourceOnFailure": true,
+    "buildUrlFile": "target/output/browserstack-build-url.txt"
+  }
+}

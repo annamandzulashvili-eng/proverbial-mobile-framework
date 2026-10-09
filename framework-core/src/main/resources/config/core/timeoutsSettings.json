@@ -1,0 +1,10 @@
+{
+  "timeouts": {
+    "conditionSeconds": 20,
+    "pollingMillis": 500,
+    "commandSeconds": 60,
+    "webviewContextSeconds": 15,
+    "appUploadSeconds": 300,
+    "newCommandTimeoutSeconds": 240
+  }
+}

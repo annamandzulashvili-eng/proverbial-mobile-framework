@@ -1,0 +1,15 @@
+{
+  "run": {
+    "platform": "android",
+    "runOn": "browserstack",
+    "device": "",
+    "suite": "smoke",
+    "threads": 2,
+    "app": "proverbial",
+    "appPath": "",
+    "env": "demo",
+    "branch": "local",
+    "buildNumber": "local",
+    "buildUrl": ""
+  }
+}

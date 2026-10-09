@@ -1,0 +1,16 @@
+{
+  "browserstack": {
+    "hubUrl": "https://hub-cloud.browserstack.com/wd/hub",
+    "apiUrl": "https://api-cloud.browserstack.com",
+    "userName": "",
+    "accessKey": "",
+    "projectName": "Proverbial Mobile Framework",
+    "buildNamePattern": "{suite} {module} for {platform} from {branch} #{buildNumber}",
+    "appiumVersion": "",
+    "video": true,
+    "networkLogs": false,
+    "idleTimeout": 120,
+    "interactiveDebugging": true,
+    "debug": false
+  }
+}
