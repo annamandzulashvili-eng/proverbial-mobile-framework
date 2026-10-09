@@ -1,0 +1,12 @@
+{
+  "apps": {
+    "proverbial-ios": {
+      "platform": "ios",
+      "browserStackApp": "ProverbialIOS",
+      "localAppPath": "",
+      "appPackage": "",
+      "appActivity": "",
+      "bundleId": ""
+    }
+  }
+}

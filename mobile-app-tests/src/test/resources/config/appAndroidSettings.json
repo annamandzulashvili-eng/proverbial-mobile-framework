@@ -1,0 +1,20 @@
+{
+  "apps": {
+    "proverbial-android": {
+      "platform": "android",
+      "browserStackApp": "ProverbialAndroid",
+      "localAppPath": "apps/proverbial_android.apk",
+      "appPackage": "com.lambdatest.proverbial",
+      "appActivity": "",
+      "bundleId": ""
+    },
+    "wdio-android": {
+      "platform": "android",
+      "browserStackApp": "WdioDemoAndroid",
+      "localAppPath": "apps/android.wdio.native.app.v2.2.0.apk",
+      "appPackage": "com.wdiodemoapp",
+      "appActivity": "",
+      "bundleId": ""
+    }
+  }
+}
