@@ -15,6 +15,7 @@
     <modules>
         <module>framework-core</module>
         <module>mobile-app-tests</module>
+        <module>mobile-web-tests</module>
     </modules>
 
     <properties>

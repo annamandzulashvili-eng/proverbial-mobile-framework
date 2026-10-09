@@ -1,0 +1,9 @@
+{
+  "web": {
+    "baseUrl": "https://ecommerce-playground.lambdatest.io/",
+    "browsers": {
+      "android": "chrome",
+      "ios": "safari"
+    }
+  }
+}

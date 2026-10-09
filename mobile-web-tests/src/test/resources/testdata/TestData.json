@@ -1,0 +1,11 @@
+{
+  "searchTerm": "iPhone",
+  "noResultsTerm": "zzqx-no-such-product",
+  "unknownEmail": "nobody.portfolio@example.com",
+  "loginWarning": "Warning",
+  "invalidRegistrations": [
+    { "name": "missing first name", "firstName": "", "confirmPassword": null, "acceptPrivacyPolicy": true, "expectedError": "First Name must be between 1 and 32 characters" },
+    { "name": "passwords differ", "firstName": null, "confirmPassword": "Different123", "acceptPrivacyPolicy": true, "expectedError": "Password confirmation does not match password" },
+    { "name": "privacy policy not accepted", "firstName": null, "confirmPassword": null, "acceptPrivacyPolicy": false, "expectedError": "You must agree to the Privacy Policy" }
+  ]
+}
